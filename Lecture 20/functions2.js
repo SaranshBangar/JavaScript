@@ -1,4 +1,4 @@
-function calculateShoppingCartPrice(...price1) // Rest parameter // Note -> It looks the same as spread operator but it differs in use case and syntax
+function calculateShoppingCartPrice(...price1) // Rest parameter // Note -> It looks the same as spread operator but the use case is different
 {
     return price1 
 }
